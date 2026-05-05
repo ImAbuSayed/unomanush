@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Unomanush |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/unomanush/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচিন দেশে উড়ছে আমার ক্লান্ত দুটি ডানা
+> তোমার দিকে যাওয়ার পথ যে আমার অজানা
+> মেঘের আড়াল থেকে তুমি হাত বাড়িয়ে দাও
+> আমার সকল বিষাদ তুমি বুকে টেনে নাও
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
