@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/unomanush/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Unomanush](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get a Licensing Quote for Unomanush](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
