@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Unomanush
+
+This log tracks the cryptographic history and versioning for the song **Unomanush** (unomanush).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:04:21.725947 | `v1` | `298f02bd4f7cf71908466c95e0ce7786608c8d46005d3d6576f7bbd8901c8c40` | `50797e71a79a6715639fb9573a5b0a82a6a43ca0db19b37cc7ba19ef0724399e` | `2026-05-08_unomanush-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
